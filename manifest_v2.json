@@ -1,0 +1,39 @@
+{
+  "item": {
+    "id": "979862841507",
+    "restype": "watchface",
+    "name": "小时轮盘",
+    "description": "时间不是一圈是一条会走的弧小时轮盘，是把十二小时从圆里取出来，弯成一条有方向的线。\n01 / HOUR SCALE\n小时的刻度\n十二个小时没有围成一圈，而是被压进一条弧线。8 到 12 依次排开，当前的小时被点亮，其余退到暗处。像老式里程表的滚轮，也像车站里不断翻动的刻度。时间第一次有了方向。\n\n02 / MINUTE WINDOW\n分钟的窗口\n分钟被单独放大，做成两个空心数字。它们不填色，只留一圈细线，像翻牌钟翻到一半的窗口，也像夜里还亮着的登机牌。你不需要寻找分钟，它就在右下角，像站牌一样宣告此刻。\n\n03 / FOOTNOTES\n数据的旁注\n日期、电量、步数、心率被移到左侧，排成一条安静的旁注。它们不抢时间，却在你需要时出现。黑底白线，是熄灯后的驾驶舱：没有颜色，只有刻度、数字和呼吸。\n\n04 / AOD\n轮盘收成一句\n当屏幕睡去，所有仪表退场，只剩时间本身。\nINSPIRATION / 灵感来源\n里程表的滚轮 · 翻牌钟的窗口 · 驾驶舱的旁注\n所有的形状都来自仪表，而不是日历。\n时间不是一圈。\n它一直在走。",
+    "preview": [
+      "media/02.jpg",
+      "media/03.jpg",
+      "media/04.png",
+      "media/06.jpg"
+    ],
+    "icon": "media/图标500px.jpg",
+    "cover": "media/00cover.jpg",
+    "author": [
+      {
+        "name": "seegood",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "联系我",
+      "url": "https://imwjh.com/contact",
+      "icon": "envelope-open"
+    }
+  ],
+  "downloads": {
+    "xmrw6": {
+      "version": "1.0.0",
+      "file_name": "downloads/30-小时轮盘-RW6-1103-2048.bin",
+      "versionCode": 65536
+    }
+  },
+  "ext": {
+    "enableAstroBoxCreatorFeatures": true
+  }
+}
